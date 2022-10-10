@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "snowcapes",
+    "name": "SnowCapes",
+    "description": "1.12.2 Cape Mod",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Snoworange"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

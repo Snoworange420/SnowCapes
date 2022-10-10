@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "nl.snoworange.snowcapes.mixin.mixins",
+  "refmap": "mixins.snowcapes.refmap.json",
+  "mixins": [
+    "MixinAbstractClientPlayer"
+  ]
+}
