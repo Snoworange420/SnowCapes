@@ -1,6 +1,8 @@
-#Snowcapes 1.0
+# Snowcapes 1.0
 
 1.12.2 forge base mod for capes. mixin code is skidded from Phobos 1.9.0
+
+# Info
 
 to build the project yourself, use this:
 
