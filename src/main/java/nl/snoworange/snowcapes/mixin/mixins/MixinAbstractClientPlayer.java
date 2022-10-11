@@ -1,6 +1,5 @@
 package nl.snoworange.snowcapes.mixin.mixins;
 
-
 import java.util.UUID;
 import javax.annotation.Nullable;
 import net.minecraft.client.entity.AbstractClientPlayer;
